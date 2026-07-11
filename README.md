@@ -9,15 +9,24 @@ Specializes in mapping complex physical, digital, and behavioral environments by
 ## 🌌 Theoretical Physics & Astrophysics Frameworks
 Developing simplified, non-dimensional scaling benchmarks to analyze planetary systems and macro-cosmic boundaries.
 
-* **Dimensionless Relative Surface Gravity ($G_v$):** 
-  $$G_v = \frac{\frac{GM}{r^2}}{\frac{GM_{\oplus}}{r_{\oplus}^2}}$$  
-  *(Simplifies efficiently to: $G_v = \left(\frac{M}{M_{\oplus}}\right) \left(\frac{r_{\oplus}}{r}\right)^2$)*
+* **Dimensionless Relative Surface Gravity ($G_v$):**
+$$G_v = \frac{\frac{GM}{r^2}}{\frac{GM_{\oplus}}{r_{\oplus}^2}}$$
+
+* **Efficient Simplified Formula Ratio:**
+$$G_v = \left(\frac{M}{M_{\oplus}}\right) \left(\frac{r_{\oplus}}{r}\right)^2$$
+
 * **Planetary Construction Efficiency Metric ($Q$) / Gravian Capacity Limit ($GCL$):** 
-  $$Q = \chi \cdot G_v \cdot \left(\frac{r_H}{r_{\oplus}}\right)$$  
-  *(Where $\chi = 0.04330$)*
-* **Zayn & Centron Dynamic Equilibrium:** Structural frameworks mapping apparent outward acceleration vectors and localized gravitational cancellation boundaries ($Zayn_{Obj1} / Zayn_{Obj2}$).
-* **Black Hole Scaling Benchmark ($\Psi$):** Measuring macro-system thresholds relative to Sagittarius A* via the Planck Force: 
-  $$\Psi = \frac{c^4}{4GM_{SgrA^*}}$$
+$$Q = \chi \cdot G_v \cdot \left(\frac{r_H}{r_{\oplus}}\right)$$
+*(Where $\chi = 0.04330$)*
+
+* **Zayn & Centron Dynamic Equilibrium:**
+Structural frameworks mapping apparent outward acceleration vectors and localized gravitational cancellation boundaries.
+$$\text{Equilibrium Boundary} = \frac{Zayn_{Obj1}}{Zayn_{Obj2}}$$
+
+* **Black Hole Scaling Benchmark ($\Psi$):**
+Measuring macro-system thresholds relative to Sagittarius A* via the Planck Force: 
+$$\Psi = \frac{c^4}{4GM_{SgrA^*}}$$
+
 
 ---
 
