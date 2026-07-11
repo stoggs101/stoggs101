@@ -55,12 +55,26 @@ $$\gamma = \sum \left[ \frac{\partial \cdot E}{\frac{c^{11}}{\hbar G^3}} \right]
 ## 🌐 Network Engineering, Cybersecurity & Python Execution
 Applying geometric wave propagation models and implementing low-latency network infrastructure.
 
-* **Wave Propagation Mechanics:** Modeling localized linear path loss, aggregate signal-to-obstruction limits, and spatial-spectral efficiency products:
-  * $W = P - (r + O)$
-  * $R = \frac{\Sigma(P \times G)}{O}$
-  * $Q = \Sigma(\pi r^2) \times (Bw \times Qam)$
-* **DNS Infrastructure Deployment:** Architected a custom global **Technitium DNS** routing topology handling a **2.3 million-entry sinkhole blocklist** to eliminate structural telemetry/malware noise across cross-platform mobile and desktop devices.
-* **Computational Automation:** Utilizing **Python** to build functional test environments, parse datasets, and execute automated validation scripts for logical and mathematical systems.
+### 1. WiFi Signal Power / Strength ($W$)
+Calculates the remaining localized signal strength at a receiver by subtracting distance range ($r$) and physical obstructions ($O$) from total transmit power ($P$):
+
+$$W = P - (r + O)$$
+
+### 2. Max WiFi Distance / Range ($R$)
+Determines the ultimate range boundary of a network zone by scaling aggregate power and antenna gain against structural interference:
+
+$$R = \frac{\Sigma(P \times G)}{O}$$
+
+### 3. Total Volumetric Data Capacity / Quantity ($Q$)
+A spatial-spectral efficiency framework calculating total network data throughput across a physical two-dimensional area:
+
+$$Q = \Sigma(\pi r^2) \times (Bw \times Qam)$$
+
+### 4. Custom DNS Infrastructure Deployment
+* Architected and maintained a custom global **Technitium DNS** routing topology.
+* Integrated a highly optimized **2.3 million-entry sinkhole blocklist** targeting telemetry, malware, and structural network noise.
+* Engineered for ultra-low-latency deployment across cross-platform mobile and desktop devices globally.
+
 
 ---
 
