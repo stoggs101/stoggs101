@@ -76,6 +76,13 @@ Synthesizing logical backend constraints with precise spatial, visual, and acous
 * **UI/UX Design Language & Auditing:** Rapid diagnostic evaluation of layout quality, visual hierarchy, transparency layers, typography consistency, and interface aesthetics. Experienced in symbolic mapping, conceptual layout design, and digital/traditional art replication.
 * **Acoustic Slide Mechanics (Trombone):** Translating auditory structures into spatial mechanics through the physical slide matrix of the trombone, mapping frequency intervals to mechanical positions.
 
+## Social Media
+https://www.wikidata.org/wiki/Q140514062
+https://x.com/realstoggs101
+https://x.com/ReflexionDev
+https://www.roblox.com/users/183703939/profile
+https://www.tiktok.com/@stoggs101
+https://www.instagram.com/stoggs101
 
 <!--
 **stoggs101/stoggs101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
