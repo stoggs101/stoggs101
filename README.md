@@ -114,6 +114,7 @@ https://www.instagram.com/stoggs101
 https://www.youtube.com/@stoggs101
 https://cparmies.org/author/stoggs101/
 https://clubpenguinswat.fandom.com/wiki/Stoggs
+https://guns.lol/stoggs101
 
 <!--
 **stoggs101/stoggs101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
