@@ -1,3 +1,4 @@
+
 ## # stoggs101 | Theoretical Physicist, Network Engineer & Digital Creator
 
 A highly persistent, cross-disciplinary researcher, digital creator, and systems architect based in the United Kingdom. Driven by a specialized cognitive architecture (AuDHD, OCD precision) optimizing for advanced abstract reasoning, rapid spatial-visual modeling, and deep-focus pattern synthesis. 
