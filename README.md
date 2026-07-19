@@ -35,7 +35,7 @@ Measuring macro-system threshold curvature relative to Sagittarius A* via the Pl
 
 $$\Psi = \frac{c^4}{4GM_{SgrA^*}}$$
 
-### 5. Andrew's Information-Theoretic Horizon Framework
+### 5. Information-Theoretic Horizon Framework
 An advanced quantum-gravitational framework mapping the physical stress and dimensional thickness of a black hole's event horizon by cross-linking thermodynamics, quantum mechanics, and general relativity.
 
 * **Quantum Gravitational Information Stress ($\partial$):**  
