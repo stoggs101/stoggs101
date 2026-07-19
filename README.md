@@ -8,7 +8,7 @@ Specializes in mapping complex physical, digital, and behavioral environments by
 ---
 
 ## 🌌 Theoretical Physics & Astrophysics Frameworks
-Developing simplified, non-dimensional scaling benchmarks to analyze planetary systems, macro-cosmic boundaries, and quantum horizons. All frameworks listed below are dedicated scientific/mathematical hypotheses and are not created for video game design or gameplay economies.
+Designing non-dimensional scaling laws to study planetary systems, macrocosmic boundaries, and quantum horizons. All the systems mentioned here are scientific hypotheses/mathematical concepts
 
 ### 1. Dimensionless Relative Surface Gravity ($G_v$)
 An astrophysics ratio framework used to calculate and compare planetary mass dynamics directly against Earth's structural baseline:
