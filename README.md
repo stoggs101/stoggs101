@@ -1,7 +1,7 @@
 
 ## # stoggs101 | Theoretical Physicist, Network Engineer & Digital Creator
 
-A highly persistent, cross-disciplinary researcher, digital creator, and systems architect based in the United Kingdom. Driven by a specialized cognitive architecture (AuDHD, OCD precision) optimizing for advanced abstract reasoning, rapid spatial-visual modeling, and deep-focus pattern synthesis. 
+A dedicated researcher, digital artist, and systems architect from the United Kingdom. Diagnosed with AuDHD, OCD & Social anxiety.
 
 Specializes in mapping complex physical, digital, and behavioral environments by treating reality as an interconnected network of logic, flows, and structural boundaries.
 
@@ -72,38 +72,38 @@ A spatial-spectral efficiency framework calculating total network data throughpu
 $$Q = \Sigma(\pi r^2) \times (Bw \times Qam)$$
 
 ### 4. Custom DNS Infrastructure Deployment
-* Architected and maintained a custom global **Technitium DNS** routing topology.
-* Integrated a highly optimized **2.3 million-entry sinkhole blocklist** targeting telemetry, malware, and structural network noise.
-* Engineered for ultra-low-latency deployment across cross-platform mobile and desktop devices globally.
+* Designed and implemented a custom global Technitium DNS routing architecture.
+* Implemented an incredibly efficient 2.3 million-item sinkhole blocklist focused on telemetry, malware, and structural network noise.
+* Engineered to be deployed with ultra-low latency on mobile and desktop platforms globally.
 
 
 ---
 
 ## 🏛️ Symbolic Systems, Logic & Structural Analysis
-Analyzing how complex, abstract frameworks regulate information, syntax, and spatial boundaries.
+Examining how complex, abstract systems control information, syntax, and spatial boundaries.
 
-* **Law Research & Logic Architectures:** Treating legal frameworks as conditional logic systems, mapping out statutes, boundaries, and systemic precedent.
-* **Linguistic Syntax (German):** Approaching linguistics through a symbolic systems lens, analyzing the structured grammatical architecture and case engines of the German language.
-* **Spatial Geography:** Mapping geopolitical boundaries, spatial relationships, and physical territory distributions through systemic pattern recognition.
-* **Spatial Strategy (Chess):** High-speed pattern recognition and simultaneous multi-board calculation utilizing spatial working memory to map vector pathways and reverse-engineer algorithmic bot behaviors.
+* **Legal Research and Logic Architecture:** Considering legal structures as conditional logic systems, laying out the statutes, boundaries, and precedence of such systems.
+* **Linguistic Syntax (Deutsch):** Using the systems perspective on linguistics and breaking down the syntax of the German language.
+* **Spatial Geography:** Charting geopolitical boundaries, spatial relations, and geographic distribution of territories using pattern recognition.
+* **Spatial Strategy (Chess):** Utilizing rapid pattern recognition to simultaneously calculate multiple boards and map vector paths, reverse engineering algorithms used by bots.
 
 ---
 
 ## 🧠 Behavioral Modeling & Predictive Intuition
 Leveraging high-density subconscious pattern completion and rapid systemic adaptation.
 
-* **Subconscious Pattern Completion:** Utilizing high-frequency environmental scanning to predict movements, behavioral trends, and outcomes before they manifest consciously.
-* **Systemic Mimicry & Impersonation:** Deconstructing human communication styles as logical behavioral frameworks, enabling precise replication of personalities, age styles, tones, and vocal or written cadences.
-* **Dialectical Debate & Rhetoric:** Rapidly indexing logical inconsistencies, structuring system-level refutations, and adapting to opposing semantic strategies under pressure.
-* **High-Speed Cognitive Skimming:** Parsing vast textual datasets at rapid speeds via layout mapping and semantic pattern recognition.
+* **Subconscious Predictive Pattern Completion:** Use of high-frequency scanning of the environment to predict behaviors and outcomes before becoming conscious of them.
+* **Mimicry System and Impersonation:** Breaking down human forms of communication into logical behaviors to accurately mimic personality, age mannerisms, tone, and cadence in spoken/written word.
+* **Debate & Rhetorical Argumentation:** High-frequency indexing of logical fallacies in order to develop system level counter arguments and adapt to an opponent’s rhetoric.
+* **Rapid Textual Cognitive Skimming:** Skimming large bodies of text at high frequencies using layout indexing and pattern recognition techniques.
 
 ---
 
 ## 🎨 Visual Systems, UI Architecture & Acoustic Design
-Synthesizing logical backend constraints with precise spatial, visual, and acoustic interfaces.
+Logical synthesis of backend constraints with visual and spatial and audio interface
 
-* **UI/UX Design Language & Auditing:** Rapid diagnostic evaluation of layout quality, visual hierarchy, transparency layers, typography consistency, and interface aesthetics. Experienced in symbolic mapping, conceptual layout design, and digital/traditional art replication.
-* **Acoustic Slide Mechanics (Trombone):** Translating auditory structures into spatial mechanics through the physical slide matrix of the trombone, mapping frequency intervals to mechanical positions.
+* **UI/UX Design Language & Auditing:** Quick assessment of layout, hierarchy, transparent layers, consistent typography, and interface designs. Skilled at creating symbol maps and layouts. Knowledgeable about computerized/artistic duplication. 
+* **Acoustic Slide Mechanics (Trombone):** Conversion of the sound structures into mechanical spatial relations using the physical slide mechanism of the trombone, mapping frequency relations into spatial relations
 
 ## Social Media
 https://www.wikidata.org/wiki/Q140514062
