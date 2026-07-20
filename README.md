@@ -114,7 +114,6 @@ https://www.tiktok.com/@stoggs101
 https://www.instagram.com/stoggs101
 https://www.youtube.com/@stoggs101
 https://cparmies.org/author/stoggs101/
-https://clubpenguinswat.fandom.com/wiki/Stoggs
 https://guns.lol/stoggs101
 
 <!--
